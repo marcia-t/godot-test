@@ -2,8 +2,9 @@
 
 [ext_resource path="res://sayhello.gd" type="Script" id=1]
 
-[node name="Panel" type="Panel" index="0"]
+[node name="Panel" type="Panel"]
 
+editor/display_folded = true
 anchor_left = 0.0
 anchor_top = 0.0
 anchor_right = 0.0
